@@ -7,6 +7,7 @@ body {
     min-height: 100vh;
     margin: 0;
     padding: 20px;
+    overflow-x: hidden;
   }
   .card {
     margin: 20px;
